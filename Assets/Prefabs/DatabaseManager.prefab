@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &96679370814993246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 96679370814993245}
+  - component: {fileID: 96679370814993244}
+  m_Layer: 0
+  m_Name: DatabaseManager
+  m_TagString: DatabaseManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &96679370814993245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96679370814993246}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &96679370814993244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 96679370814993246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e36f09d7779b3c488401be5a11a187c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bahanMakanan: []
+  data:
+  - menuMasakan: Tumis Kangkung
+    bahan:
+    - Kangkung
+    - Telur
+    - LombokPaprika
+    - Saori Saus Tiram
+    - Air
+    - Minyak
+    aksi:
+    - 'Potong potong cabai dan kangkung.  '
+    - 'Tumis cabai hingga harum.  '
+    - 'Masukkan kangkung, telur puyuh, dan air.  '
+    - "Tambahkan SAORI\xAE Saus Tiram, aduk rata, masak hingga matang, angkat dan
+      sajikan.  "
+  - menuMasakan: Nasi Goreng Oriental
+    bahan:
+    - Nasi
+    - DagingAyam
+    - Telur
+    - Saori Saus Tiram
+    - Jamur
+    - Minyak
+    - Wortel
+    - BawangPutih
+    - BawangBombay
+    - LombokPaprika
+    - DaunBawang
+    aksi:
+    - Cincang bawang putih, bawang Bombay, potong wortel, iris jamur dan cabai rawit
+      merah, potong ayam bentuk dadu
+    - Tumis bawang putih dan bawang bombay hingga harum. Masukkan wortel, jamur,
+      cabai, dan ayam.
+    - Sisihkan tumisan dipinggir wajan, Orak-arik telur.
+    - "Masukkan nasi, daun bawang dan SAORI\xAE Saus Tiram. Aduk rata, masak hingga
+      matang"
+  - menuMasakan: Ayam Goreng Ungkep
+    bahan:
+    - DagingAyam
+    - BawangMerah
+    - BawangPutih
+    - Air
+    - Minyak
+    aksi:
+    - 'Haluskan bawang merah dan bawang putih.  '
+    - "Panaskan 3 sdm minyak goreng, masukkan bumbu halus, tumis hingga harum. Masukkan
+      ayam, air, dan SAORI\xAE Saus Tiram.  "
+    - 'Ungkep ayam hingga empuk dan air meresap dalam daging.  '
+    - 'Panaskan minyak goreng, goreng ayam hingga bagian kulitnya agak kering. Angkat
+      dan sajikan.  '
+  - menuMasakan: Capcay
+    bahan:
+    - Jamur
+    - Kubis
+    - Wortel
+    - Air
+    - Minyak
+    - BawangPutih
+    aksi:
+    - 'Iris sawi hijau, jagung muda, wortel, dan potong jamur kancing menjadi 2 bagian.
+      Cincang bawang putih. Sisihkan.  '
+    - 'Panaskan minyak goreng, masukkan bawang putih dan udang kupas tumis hingga
+      udang berubah warna. Masukkan jagung muda, wortel, jamur kancing, kembang kol,
+      dan air, aduk rata.  '
+    - "Masukkan air dan SAORI\xAE Saus Tiram, aduk rata.  "
+    - 'Masukkan sawi hijau, masak hingga matang. Angkat dan sajikan.  '
+  - menuMasakan: Ayam Teriyaki
+    bahan:
+    - Ayam
+    - BawangBombay
+    - CabeMerah
+    - Minyak
+    aksi:
+    - 'Iris serong cabai merah dan cabai hijau, potong bawang bombay, potong ayam
+      bentuk dadu.  '
+    - "Siapkan wadah, campurkan ayam dan 1 bks SAORI\xAE Saus Teriyaki, diamkan +/-
+      15 menit.  "
+    - 'Panaskan minyak goreng, tumis bawang bombay, cabai merah, dan cabai hijau.
+      Masukkan ayam, aduk rata. Masak hingga matang.  '
+  - menuMasakan: Buncis Gulung Teriyaki
+    bahan:
+    - DagingSapi
+    - BawangBombay
+    - CabeMerah
+    - Minyak
+    aksi:
+    - 'Iris serong cabai merah dan cabai hijau, potong bawang bombay, potong ayam
+      bentuk dadu.  '
+    - "Siapkan wadah, campurkan ayam dan 1 bks SAORI\xAE Saus Teriyaki, diamkan +/-
+      15 menit.  "
+    - 'Panaskan minyak goreng, tumis bawang bombay, cabai merah, dan cabai hijau.
+      Masukkan ayam, aduk rata. Masak hingga matang.  '
+  - menuMasakan: Semur Daging Teriyaki
+    bahan:
+    - DagingSapi
+    - BawangMerah
+    - CabeMerah
+    - Minyak
+    - Gula
+    - Merica
+    - Ketumbar
+    - BubukPala
+    - DaunSalam
+    - Air
+    - Minyak
+    aksi:
+    - 'Iris bawang merah, potong serong cabai merah, potong daging sapi.  '
+    - 'Panaskan minyak goreng, tumis bawang merah dan daun salam hingga harum.  '
+    - 'Masukkan daging, ketumbar bubuk, merica, dan air. Aduk rata.  '
+    - "Tambahkan gula merah dan SAORI\xAE Saus Teriyaki, aduk rata. Masak hingga
+      bumbu meresap.  "
+  - menuMasakan: Sapi Lada Hitam
+    bahan:
+    - DagingSapi
+    - PaprikaMerah
+    - PaprikaHijau
+    - BawangBombay
+    - Minyak
+    aksi:
+    - Potong Bawang Bombay
+    - Potong Paprika Merah
+    - Potong Paprika Hijau
+    - Potong Daging
+    - Masukkan Minyak
+    - Masukkan Daging Sapi
+    - Masukkan Paprika Merah
+    - Masukkan Paprika Hijau
+    - Masukkan Bawang Bombay
+    - Masukkan Saori Lada HItam
+  - menuMasakan: Mie Sapi Lada Hitam
+    bahan:
+    - DagingSapi
+    - SawiHijau
+    - BawangBombay
+    - CabaiMerah
+    - Air
+    - Minyak
+    aksi:
+    - Potong Sawi Hijau
+    - Potong Bawang Bombay
+    - Potong Cabe Merah
+    - Potong Daging Sapi
+    - Masukkan Minyak
+    - Masukkan Bawang Bombay
+    - Masukkan Cabe Merah
+    - Masukkan Daging Sapi
+    - Masukkan Mie
+    - Masukkan Sawi
+    - Masukkan Saori Saus Lada Hitam
+  - menuMasakan: Ayam Goreng Saus Mentega
+    bahan:
+    - DagingAyam
+    - BawangBombay
+    - Air
+    - Minyak
+    aksi:
+    - Potong Bawang Bombay
+    - Masukkan Minyak
+    - Masukkan Daging Ayam
+    - "Masukkan SAORI\xAE Saus Rasa Mentega dan air, aduk rata hingga bumbu meresap,
+      angkat dan sajikan.  "
+  - menuMasakan: Gurame Asam Manis
+    bahan:
+    - Gurame
+    - Garam
+    - Merica
+    - Terigu
+    - Telur
+    - Minyak
+    - CabeMerah
+    - PaprikaHIjau
+    - BawangBombay
+    - Air
+    aksi:
+    - Potong Cabe Merah
+    - Potong Bawang bombay
+    - Potong Paprika Hijau
+    - Potong Daging Ikan
+    - Masukkan Minyak
+    - Masukkan Gurame
+    - Masukkan Saoru Saus Asam Manis
+  - menuMasakan: Ayam Kungpao
+    bahan:
+    - DagingAyam
+    - Kacang
+    - Minyak
+    aksi:
+    - Potong Daging Ayam Paha Atas
+    - Masukkan Saori Saus Pedas
+    - Masukkan Kulkas
+  testText: {fileID: 0}

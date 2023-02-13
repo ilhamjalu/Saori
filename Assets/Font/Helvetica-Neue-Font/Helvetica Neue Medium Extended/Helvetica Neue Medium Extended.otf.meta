@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ac1bfdedac45d849ab5dea09ebedb9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Helvetica Neue Medium Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 57c030ccea24c0c42b4c86d893df7e7f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

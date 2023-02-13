@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0ee5639f0db09414e8c6e2aa4658c061
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HelveticaNeueW01-77BdCnObl
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e1e2f6d8491662040af5b0ddf7a9caab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

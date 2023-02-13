@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 4e66a62c473ac7f4a975ad5866f64ae8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -672463141338870464
+    second: gula merah_0
+  - first:
+      213: -2708012711267403034
+    second: gula merah_1
+  - first:
+      213: -1388742486055728004
+    second: gula merah_2
+  - first:
+      213: 2869944168411949922
+    second: gula merah_3
+  - first:
+      213: 8422504396646445009
+    second: gula merah_4
+  - first:
+      213: 8068637357410084274
+    second: gula merah_5
+  - first:
+      213: 6083400600262384094
+    second: gula merah_6
+  - first:
+      213: -7641339086121664802
+    second: gula merah_7
+  - first:
+      213: -2073526236370367400
+    second: gula merah_8
+  - first:
+      213: 5857495534297110379
+    second: gula merah_9
+  - first:
+      213: 4605827872153377026
+    second: gula merah_10
+  - first:
+      213: -2587380380601012747
+    second: gula merah_11
+  - first:
+      213: 1652064252809022283
+    second: gula merah_12
+  - first:
+      213: 3111593476496806582
+    second: gula merah_13
+  - first:
+      213: 4817726846242476987
+    second: gula merah_14
+  - first:
+      213: -4399663580197714456
+    second: gula merah_15
+  - first:
+      213: 4081710074484339261
+    second: gula merah_16
+  - first:
+      213: 5862318417039543192
+    second: gula merah_17
+  - first:
+      213: -2452424372161330058
+    second: gula merah_18
+  - first:
+      213: 7911542515392078635
+    second: gula merah_19
+  - first:
+      213: 480658969945387440
+    second: gula merah_20
+  - first:
+      213: 7673968650497969701
+    second: gula merah_21
+  - first:
+      213: -4917607394328440060
+    second: gula merah_22
+  - first:
+      213: -5262062413087001112
+    second: gula merah_23
+  - first:
+      213: 4681979353686949890
+    second: gula merah_24
+  - first:
+      213: -3410756138158635929
+    second: gula merah_25
+  - first:
+      213: 6367670142685896324
+    second: gula merah_26
+  - first:
+      213: 1241334787282434291
+    second: gula merah_27
+  - first:
+      213: 4926059820019440692
+    second: gula merah_28
+  - first:
+      213: -942776968901434018
+    second: gula merah_29
+  - first:
+      213: 5019447549921566472
+    second: gula merah_30
+  - first:
+      213: -8807704851221793074
+    second: gula merah_31
+  - first:
+      213: 2564104742017973639
+    second: gula merah_32
+  - first:
+      213: -2858745388843789833
+    second: gula merah_33
+  - first:
+      213: -3991143825477163324
+    second: gula merah_34
+  - first:
+      213: -8752816372401612636
+    second: gula merah_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gula merah_0
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 339
+        width: 441
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d04f7f55eeaa6f0800000000000000
+      internalID: -672463141338870464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 700
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf9a969c43b6ad0800000000000000
+      internalID: -2708012711267403034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_2
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 709
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc72a11123abce0800000000000000
+      internalID: -1388742486055728004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_3
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 704
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be56bf30714d720800000000000000
+      internalID: 2869944168411949922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_4
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 696
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe649df1fb2e470800000000000000
+      internalID: 8422504396646445009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_5
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 693
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5efd55dee89ff60800000000000000
+      internalID: 8068637357410084274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_6
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 694
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9990d5d949c6450800000000000000
+      internalID: 6083400600262384094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 690
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edef863369284f590800000000000000
+      internalID: -7641339086121664802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_8
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 602
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c01b0cfda5933e0800000000000000
+      internalID: -2073526236370367400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_9
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 587
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67573377210a4150800000000000000
+      internalID: 5857495534297110379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_10
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 588
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099b480c003bef30800000000000000
+      internalID: 4605827872153377026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_11
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 581
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd267b9047c71cd0800000000000000
+      internalID: -2587380380601012747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_12
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 574
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8dc65faf4de610800000000000000
+      internalID: 1652064252809022283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 566
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d30ce7c99e2b20800000000000000
+      internalID: 3111593476496806582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_14
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 531
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3552f8a010cd240800000000000000
+      internalID: 4817726846242476987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_15
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 511
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58713c84141f2c0800000000000000
+      internalID: -4399663580197714456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_16
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 498
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32b5c9dfa525a830800000000000000
+      internalID: 4081710074484339261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_17
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 485
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4fd75a832b5150800000000000000
+      internalID: 5862318417039543192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_18
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 493
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67440dae60d37fdd0800000000000000
+      internalID: -2452424372161330058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23685720027bcd60800000000000000
+      internalID: 7911542515392078635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_20
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 484
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b133b959c4aba600800000000000000
+      internalID: 480658969945387440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_21
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 473
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4a6644d96f7a60800000000000000
+      internalID: 7673968650497969701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 449
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4031834212621cbb0800000000000000
+      internalID: -4917607394328440060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_23
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 445
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5b30a6d1669f6b0800000000000000
+      internalID: -5262062413087001112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_24
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200493e7a6bb9f040800000000000000
+      internalID: 4681979353686949890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_25
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 407
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76442910d5f8aa0d0800000000000000
+      internalID: -3410756138158635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_26
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e57a5e1428e5850800000000000000
+      internalID: 6367670142685896324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_27
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 337
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8fd43896b1a3110800000000000000
+      internalID: 1241334787282434291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 334
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c55929e41ec5440800000000000000
+      internalID: 4926059820019440692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 329
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e53287559ae2f0800000000000000
+      internalID: -942776968901434018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_30
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 328
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f97c5d3f8a8a540800000000000000
+      internalID: 5019447549921566472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_31
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b0706a1fb4c580800000000000000
+      internalID: -8807704851221793074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_32
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 332
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d30ea7da7859320800000000000000
+      internalID: 2564104742017973639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_33
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 317
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f11ea21732b358d0800000000000000
+      internalID: -2858745388843789833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_34
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 308
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6a0f236db9c98c0800000000000000
+      internalID: -3991143825477163324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gula merah_35
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 306
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a857ca32efb78680800000000000000
+      internalID: -8752816372401612636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c60ba290ca7ecf4785c9f4473e2ae08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

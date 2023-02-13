@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 569519c7be7b59142b0accb82715536b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Helvetica Neue LT W06
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 339968a0561175441a2c25a19372c96a, type: 3}
+  - {fileID: 12800000, guid: 6286eeb357850e44cabc420897f99e30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
